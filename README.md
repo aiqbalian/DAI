@@ -143,7 +143,7 @@ Experience includes:
 | AI/ML | Machine Learning, Deep Learning, XAI |
 | Visualization | Power BI, DAX, GIS |
 | Statistics | SPSS, STATA |
-| Data Collection | KoboToolbox, ODK |
+| Data Collection | KoboToolbox, ODK |, CSPro |
 | Databases | SQL Server, PostgreSQL |
 | Web | HTML, CSS, JavaScript |
 | Version Control | Git, GitHub |
